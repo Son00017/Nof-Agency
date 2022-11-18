@@ -29,3 +29,18 @@
 textarea{
     padding: 20px;
 }
+.portfolio__card div{
+    border: 1px solid transparent;
+}
+.portner__card div{
+
+    border: 1px solid transparent;
+}
+.team__card{
+    border: 1px solid transparent;
+}
+.cards__item{
+    /* box-sizing: border-box; */
+    border: 1px solid #FEAB38;
+/* border-radius: 10px; */
+}
