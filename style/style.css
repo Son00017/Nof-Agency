@@ -9,3 +9,20 @@
 .contact__input{display:-webkit-box;display:-ms-flexbox;display:flex;gap:60px;margin-bottom:30px}.input__name{font-weight:500;font-size:1.8rem;line-height:22px;color:#3a3a3a}button{padding:0;margin:0;border:none;outline:none;background:0 0;height:100%}input{padding:0;margin:0;border:none;outline:none;background:0 0;height:100%}.input__name span{color:#feab38}.input{width:370px;height:50px;background:#f8f8f8;border:1px solid #ebebeb;-webkit-box-shadow:inset -1px -1px 4px rgba(0,0,0,.05),inset 4px 4px 4px rgba(0,0,0,.08);box-shadow:inset -1px -1px 4px rgba(0,0,0,.05),inset 4px 4px 4px rgba(0,0,0,.08);border-radius:10px;padding:0 20px}.for__input{padding-left:14px;border-left:1px solid rgba(0,0,0,.1)}.number-btn{margin-right:13px}textarea{width:80rem;height:13rem;background:#f8f8f8;border:1px solid #ebebeb;-webkit-box-shadow:inset -1px -1px 4px rgba(0,0,0,.05),inset 4px 4px 4px rgba(0,0,0,.08);box-shadow:inset -1px -1px 4px rgba(0,0,0,.05),inset 4px 4px 4px rgba(0,0,0,.08);border-radius:10px;margin-bottom:30px}
 .contact__form p{margin-bottom:3px}.contact__btn{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-item-align:end;align-self:flex-end;padding:10px 62px;background:#dfbb7f;border-radius:10px;color:#fff}footer{background:#37474f;padding-top:80px}.massager{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;gap:24px;margin-bottom:50px}.phone-number{display:-webkit-box;display:-ms-flexbox;display:flex;gap:12px}.massager__number{font-size:2rem;line-height:1.15;color:#a3a3a3}.four-group{display:-webkit-box;display:-ms-flexbox;display:flex;padding:25px 0;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.four-group__desc{font-size:1.8rem;line-height:21px;color:#b8b8b8}.four-froup__part{display:-webkit-box;display:-ms-flexbox;display:flex;padding:14px 10px;border:1px solid #b8b8b8;border-radius:10px;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
 .footer-btn{color:#fff;padding:6px 11px;background:#575757;border-radius:10px}.scrol{position:fixed;padding:14px 15px;border:1px solid #feab38;height:53px;width:53px;border-radius:50%;right:63px;bottom:145px;z-index:10}.example{display:-ms-grid;display:grid;-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background:-o-linear-gradient(top,#fff,#000);background:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#000));background:linear-gradient(to bottom,#fff,#000)}li a:hover{color:var(--tittle-black-color)}.hover_block:hover{background-color:var(--hover-popins)}.hover-bg:hover{background-color:#191c2f}.example{display:-ms-grid;display:grid;-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#000));background:-o-linear-gradient(top,#fff,#000);background:linear-gradient(to bottom,#fff,#000)}
+.cards__item:hover{
+    box-sizing: border-box;
+    border: 1px solid #FEAB38;
+/* border-radius: 10px; */
+} 
+.portfolio__card div:hover{
+    box-sizing: border-box;
+
+    border: 1px solid #FEAB38;
+}
+.portner__card div:hover{
+
+    border: 1px solid #FEAB38;
+}
+.team__card:hover{
+    border: 1px solid #FEAB38;
+}
