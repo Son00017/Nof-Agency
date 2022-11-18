@@ -26,3 +26,6 @@
 .team__card:hover{
     border: 1px solid #FEAB38;
 }
+textarea{
+    padding: 20px;
+}
